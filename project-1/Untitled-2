@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <style>
+ body {
+  background-color: #5c94fc;
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+div.a {
+  text-align: center;
+}
+figure {
+  border: 1px #cccccc solid;
+  padding: 4px;
+  margin: auto;
+}
+
+figcaption {
+  background-color: black;
+  color: white;
+  font-style: italic;
+  padding: 2px;
+  text-align: center;
+}
+
+</style>
+</head>
+<body>
+
+<div class="a">
+<h1>LAX</h1>
+    </div>
+
+<a href="page-3.html">
+     <video id="lax">
+  <source src="file:///D:/USC20FALL/iml300/github%20iml300/iml300-new/project-1/asset/LAX.mp4" type="video/mp4">
+</video>
+      <br>
+      <br>
+<div class="a">
+<button type="button" onclick="alert('You beat the monster!')">Click Me!</button>
+    </div>
+      <br>
+      <br>
+  <body/>
+<html/>
