@@ -1,5 +1,5 @@
 # Simple Clock Chrome Extension
-![breathing](https://github.com/Qianqianye/iml300/blob/master/project-2/asset/breathe-extension.gif)
+![clock](https://github.com/vanessaxzcc/iml300-new/blob/master/assets/clock.gif)
 
 A simple and aesthetic Google Chrome extension that reminds you the time. Made with p5.js
 
