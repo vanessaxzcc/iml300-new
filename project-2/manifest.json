@@ -1,0 +1,16 @@
+{
+  "name": "Simple Clock",
+  "manifest_version": 2,
+  "version": "1.0",
+  "description": "an aesthetic clock that you can open on your tab to read time",
+  "icons": {
+    "128": "icon/simpleclock.png"
+  },
+  "content_scripts": [
+    {
+      "matches": ["http://*/*", "https://*/*"],
+      "js": ["js/p5.min.js", "js/sketch.js"],
+      "css": ["css/style.css"]
+    }
+  ]
+}

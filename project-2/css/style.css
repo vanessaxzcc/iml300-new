@@ -1,0 +1,7 @@
+#p5Canvas {
+  /* To fix the canvas even if you scroll */
+  position: fixed;
+  z-index: 30;
+/* To enable the dom click event behind the canvas */
+  pointer-events: none;
+}
